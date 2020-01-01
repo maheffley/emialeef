@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aizohheika.0--0------------------0----0----------0-------0---------------0.ru/sitemap.xml
